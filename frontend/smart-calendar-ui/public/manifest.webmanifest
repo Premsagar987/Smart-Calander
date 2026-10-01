@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Smart Calendar",
+  "short_name": "Smart Calendar",
+  "description": "A private calendar and task planner that works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5ef",
+  "theme_color": "#174d31",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
